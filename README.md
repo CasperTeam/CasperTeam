@@ -13,3 +13,5 @@
 
 
 [![](https://hit.yhype.me/github/profile?user_id=84174959)](http://satyendra.cf)
+
+[![Metrics](https://metrics.lecoq.io/casperteam?template=classic&base.header=0&lines=1&screenshot=1&pagespeed=1&pagespeed.url=http%3A%2F%2Fsatyendra.cf&pagespeed.detailed=true&pagespeed.screenshot=false&screenshot.title=webshot&screenshot.url=http%3A%2F%2Fsatyendra.cf&screenshot.selector=html&screenshot.background=false&config.timezone=Asia%2FCalcutta)](http://satyendra.cf)
