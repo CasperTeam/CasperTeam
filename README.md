@@ -6,7 +6,7 @@
 - 💬 Ask me about anything
 - ⚡ fact: i am noob
 
-[![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat&label=VISITORS)
+[![](https://komarev.com/ghpvc/?username=casperteam&color=green&style=flat&label=VISITORS)
 ](http://satyendra.cf)
 
 
@@ -19,4 +19,4 @@
 
 
 
-[![[](https://github.com/CasperTeam/CasperTeam/blob/main/README.md)](http://satyendra.cf)
+[![](https://github.com/CasperTeam/CasperTeam/blob/main/README.md)](http://satyendra.cf)
